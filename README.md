@@ -1,6 +1,6 @@
 # Momentum
 
-[Demo](https://nekrasovanatalya.github.io/Momentum/)
+[Demo](https://AlexandraMaskalunas.github.io/Momentum/)
 
 **Momentum** - аналог [одноимённого приложения](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=ru) из Chrome. Приложение показывает время и имя пользователя. Фоновое изображение и приветствие меняются в зависимости от времени суток.  
 В приложении есть часы, слайдер изображений, виджеты погоды, аудиоплеер, цитата дня. Для хранения имени пользователя и населённого пункта используется локальное хранилище - local storage.
